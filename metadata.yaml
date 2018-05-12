@@ -1,0 +1,33 @@
+_repo: The-Red-Cross-Barge_37294
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37294-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lowndes, Marie Belloc
+    aliases:
+    - Lowndes, Marie Adelaide Belloc
+    - Belloc, M. A. (Marie Adelaide)
+    - Belloc-Lowndes, Marie Adelaide
+    - Belloc, Marie Adelaide
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '786'
+    url: http://www.gutenberg.org/2009/agents/786
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Adelaide_Belloc_Lowndes
+description: ''
+gutenberg_issued: '2011-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37294'
+  lccn: '16008074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+title: The Red Cross Barge
+url: http://www.gutenberg.org/ebooks/37294
